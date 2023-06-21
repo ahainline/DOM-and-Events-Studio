@@ -1,5 +1,6 @@
 {
     "cSpell.ignoreWords": [
         "rocketline"
-    ]
+    ],
+    "terminal.explorerKind": "integrated"
 }
